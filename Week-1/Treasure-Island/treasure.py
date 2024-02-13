@@ -41,9 +41,9 @@ if road == "right":
             end = int(input("You follow the wooded trail and eventually reach a spring. There is a sign that asks for "
                             "a number. What is your number?\n"))
             if end <= 50:
-                print("The spring pities you for not asking for more, 50 golden coins appear at your feet.")
+                print(f"The spring pities you for not asking for more, {end} golden coins appear at your feet.")
             elif end <= 100:
-                print("The spring is quite happy with your amount, 100 golden coins appear at your feet.")
+                print(f"The spring is quite happy with your amount, {end} golden coins appear at your feet.")
             else:
                 print("The spring thinks you are too greedy, you are swallowed up and never to be seen again.")
         else:
