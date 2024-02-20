@@ -3,6 +3,7 @@
 
 ### Python ###
 *$py.class
+_pycache_
 
 # Distribution / packaging
 .Python
