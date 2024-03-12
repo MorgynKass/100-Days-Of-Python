@@ -8,4 +8,5 @@ Week 3 consists of sections 21-30.
 
 Week 4 consits of sections 31-40.
 
-Week 5 consists of sections 41-50. I decided to skip the HTML and CSS sections as well as the tinder bot.
+Week 5 consists of sections 41-50. 
+(I decided to skip the HTML and CSS sections as well as the tinder bot.)
